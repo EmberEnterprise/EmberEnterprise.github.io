@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    <url>
+      <loc>/404.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/algolia_search.json</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/button_demo.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/button_documentation.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/doc_faq.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/doc_scroll.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/doc_shuffle.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/numeric_input_demo.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/numeric_input_documentation.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/prince-file-list.txt</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/search.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/search.json</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/sitemap.xml</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_collaboration.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_content_types.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_formatting.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_getting_started.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_mobile.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_navigation.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_publishing.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_single_sourcing.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/doc/tag_special_layouts.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/title-checker.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/titlepage.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/tocpage.html</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/urls_doc.txt</loc>
+      
+        <last_updated>2016-04-06T18:05:15+03:00</last_updated>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+</urlset>

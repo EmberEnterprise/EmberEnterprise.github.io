@@ -1,0 +1,178 @@
+[
+
+
+
+
+
+
+
+
+{
+"title": "Button - Demo",
+"tags": "getting_started",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "../doc/button_demo.html",
+"summary": "",
+"body": ""
+
+},
+
+
+
+
+{
+"title": "Button - Documentation",
+"tags": "",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "../doc/button_documentation.html",
+"summary": "Easy to use and customizable button component.",
+"body": "## API| Attribute | Type | Value  | Description || --------- | ---- | ------ | ----------- || `autofocus` |`boolean` | `false` | **default**: Average button || | | `true` | Button automatically gets focused when page loads || `disabled` | `boolean` | `false` | **default**: Can click button || | | `true` | Button is unusable and un-clickable || `on-click` | `string` | `(action )` | Triggers associated action when the button is clicked || `text` | `string` | `` | Text do display on the button. Not necessary when used in block-form || `size` | `string` | `extra-small` | || | | `small` | || | | `medium` | **default** || | | `large` | || `aspect` | `string` | `default` | **default**: Average button || | | `primary` | Provides extra visual weight and identifies the primary action in a set of buttons || | | `success` | Indicates a successful or positive action || | | `info` | Contextual button for informational alert messages || | | `warning` | Indicates caution should be taken with this action || | | `danger` | Indicates a dangerous or potentially negative action |## Examples### Block-form```{% raw %}{{#e-button}}    My Button{{/e-button}}{% endraw %}```### Inline```{% raw %}{{e-button text=\"By Button\"}}{% endraw %}```"
+
+},
+
+
+
+
+{
+"title": "FAQ layout",
+"tags": "special_layouts",
+"keywords": "frequently asked questions, FAQ, question and answer, collapsible sections, expand, collapse",
+"url": "../doc/doc_faq.html",
+"summary": "You can use an accordion-layout that takes advantage of Bootstrap styling. This is useful for an FAQ page.",
+"body": "If you want to use an FAQ format, use the syntax shown on the faq.html page. Rather than including code samples here (which are bulky with a lot of nested div tags), just look at the source in the doc_faq.html theme file.                                                                                                                         Lorem ipsum dolor sit amet, consectetur adipiscing elit?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Aenean consequat lorem ut felis ullamcorper?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Aenean consequat lorem ut felis ullamcorper?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                                                                                                    Aenean consequat lorem ut felis ullamcorper?                                                                                                                                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.                                                                                                                            "
+
+},
+
+
+
+
+{
+"title": "Scroll layout",
+"tags": "special_layouts",
+"keywords": "json, scrolling, scrollto, jquery plugin",
+"url": "../doc/doc_scroll.html",
+"summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way.",
+"body": "{% if site.output == \"pdf\" %}{{site.data.alerts.note}} The content on this page doesn't display well on PDF, but I included it anyway so you could see the problems this layout poses if you're including it in PDF.  {{site.data.alerts.end}}{% endif %}{% if site.output == \"web\" %}          {  \"apples\": \"red fruit at the store\",  \"bananas\": \"yellow bananas in a bunch\",  \"carrots\": \"orange vegetables that grow in the ground\",  \"dingbats\": \"a type of character symbol on a computer\",  \"eggs\": \"chickens lay them, and people eat them\",  \"falafel\": \"a Mediterranean sandwich consisting of lots of different stuff i don't know much about\",  \"giraffe\": \"tall animal, has purple tongue\",  \"hippo\": \"surprisingly dangerous amphibian\",  \"igloo\": \"an ice shelter made by eskimos\",  \"jeep: \"the only car that starts with a j\",  \"kilt\": \"something worn by scottish people, not a dress\",  \"lamp\": \"you use it to read by your bedside at night\"  \"manifold\": \"an intake mechanism on a car, like a valve, i think\",  \"octopus\": \"eight tentacles, shoots ink, lives in dark caves, very mysterious\",  \"paranoia\": \"the constant feeling that others are out to get you, conspiring against your success\",  \"qui\": \"a life force that runs through your body\",  \"radical\": \"someone who opposes the status quo in major ways\",  \"silly\": \"how I feel writing this dummy copy\",  \"taffy\": \"the sweets children like the most and dentists hate the worst\",  \"umbrella\": \"an invention that has not had any advancements in 200 years\",  \"vampire\": \"a paranormal figure that is surprisingly in vogue despite its basic nature\",  \"washington\": \"the place where tom was born\",  \"xylophone\": \"some kind of pinging instrument used to sound chime-like notes\",  \"yahoo\": \"an expression of exuberance, said under breath when something works right\",  \"zeta\": \"the way british people pronounce z\",  \"alpha\": \"the original letter of the alphabet, which has since come to mean the first. however, i think the original symbol of alpha is actually an ox. it is somewhat of a mystery to linquists as to the exact origin of the letter alpha, but it basically represents the dawn of the alphabet, which proved to be a huge step forward for human thought and expression.\",  \"beta\": \"the period of time when something is finished but undergoing testing by a group of people.\",  \"cappa\": \"how italians refer to their baseball caps\",  \"dunno\": \"informal expression for 'don't know'\"  }           applesLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer magna massa, euismod sed rutrum at, ullamcorper quis tellus. Vestibulum erat purus, aliquet sit amet pellentesque eget, tempus at ante. Nulla justo nisi, elementum nec nisi eget, consectetur varius tortor.     bananasCurabitur quis nibh sed eros viverra tempus et quis lorem. Nulla convallis sit amet risus vitae rutrum. Nulla at faucibus lectus. Pellentesque tortor nisl, interdum ac quam non, egestas congue massa. Vestibulum non porttitor lacus. Nam tincidunt arcu lectus. Donec eget ornare neque, hendrerit ornare lectus. In ac pretium odio.    carrotsVivamus pulvinar vestibulum pharetra. Vivamus vitae diam iaculis, posuere mi sed, dignissim massa. Nunc vitae aliquet urna. Proin sed pulvinar ex. Maecenas nisl lorem, rutrum sit amet hendrerit sed, posuere at odio. Sed consectetur semper tristique. Vivamus finibus varius felis at convallis. Fusce in dictum nunc.    dingbatsCurabitur feugiat lorem eget elit ullamcorper tincidunt. In euismod diam aliquet tortor fermentum tempor. Fusce quam felis, commodo viverra orci vitae, scelerisque aliquet risus.     eggsDuis est nunc, fringilla eu ligula et, varius dignissim dui. Vivamus in tellus vitae ipsum vehicula fermentum at congue tellus. Suspendisse fermentum, magna vitae aliquet sodales, tellus nisi rutrum arcu, vitae auctor dolor quam ac tellus. Cras posuere augue erat, in sagittis quam lacinia id.    falafelPraesent auctor a enim non lacinia. Integer sodales aliquet mi vel dapibus. Donec consequat justo eget nisi lacinia, eu sodales ligula molestie. Sed sapien nulla, rhoncus at elementum a,     giraffeNullam venenatis at lectus sed pharetra. Sed hendrerit ligula lectus, non pellentesque diam faucibus sit amet. Aliquam dictum hendrerit pellentesque. Cras eu nisl sagittis, faucibus velit sit amet, sagittis odio. Donec vulputate ex vitae purus    hippoCras nec pretium nulla. Suspendisse tempus tortor vel venenatis pulvinar. Integer varius tempor enim fringilla tincidunt. Phasellus magna turpis, auctor vitae elit eget, fringilla pellentesque est. Phasellus ut porta risus. Curabitur iaculis sapien sed venenatis auctor. Integer eu orci at lectus eleifend auctor id rutrum urna.    iglooSuspendisse tempus tortor vel venenatis pulvinar. Integer varius tempor enim fringilla tincidunt. Phasellus magna turpis, auctor vitae elit eget, fringilla pellentesque est. Phasellus ut porta risus.      jeepNulla vitae metus rutrum, condimentum orci nec, maximus est. Aenean sit amet ante nec elit dignissim faucibus eget quis quam.     kiltMorbi maximus, erat vel rhoncus sagittis, dolor purus dignissim ante, sit amet pharetra ex justo vitae ipsum. Nulla consequat interdum neque    lampCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris aliquam dapibus blandit. Donec porta, enim hendrerit venenatis vulputate, orci diam lacinia nibh, faucibus rutrum dolor dui ut quam.    manifoldDonec finibus massa vel nisi ullamcorper, vitae ornare enim euismod. Aliquam auctor quam erat. Duis interdum rutrum orci, ac interdum urna pharetra eget.    octopusNulla id egestas enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse potenti. Curabitur eu lobortis ligula.    paranoiaAenean hendrerit mauris ipsum, non laoreet ipsum luctus vel. Curabitur tristique auctor elit ut pulvinar. Quisque arcu arcu, condimentum aliquam sodales nec, dignissim nec justo. Nunc tristique sem felis, pharetra euismod lorem volutpat sed. Ut porttitor metus sit amet elit rhoncus semper.    quiQuisque rhoncus cursus felis vel elementum. Vestibulum dignissim molestie tortor nec facilisis. Praesent a nibh condimentum, porta nulla egestas, auctor eros    radicalEtiam hendrerit interdum tellus, at aliquet sapien egestas in. Aenean eu urna nisl. Cras vitae risus pharetra, elementum mauris nec, auctor lectus. Fusce pellentesque venenatis dictum. Proin at augue at mauris finibus semper ultricies sed eros.    sillyPraesent pulvinar consequat posuere. Morbi egestas rhoncus felis, id fermentum metus lobortis in. Vestibulum nibh orci, euismod eget vestibulum nec, vehicula vitae tortor. Aenean ullamcorper enim nunc, eu auctor ligula auctor eget.    taffyEtiam et arcu vel lacus aliquet lobortis in in massa. Nunc non mollis elit. Aenean accumsan orci quis risus aliquam, non gravida nulla molestie. Mauris pharetra libero et magna aliquam aliquam. Integer quis luctus dolor.     umbrellaFusce molestie finibus malesuada. Nullam ac egestas quam, id venenatis ligula. Pellentesque pulvinar elit et vestibulum fringilla. Cras volutpat sed quam ornare scelerisque. Vivamus volutpat ante pretium scelerisque tempus. Etiam venenatis tempor nisl dignissim sollicitudin. Curabitur ac risus vitae dolor pretium posuere vel vitae diam. Donec in odio arcu.    vampireVestibulum pretium condimentum commodo. Integer placerat leo non ipsum ultrices, ac convallis elit varius. Vestibulum ultricies, justo eu rutrum molestie, quam arcu euismod sapien, vel gravida ipsum nulla eget erat.     washingtonNunc ac quam eu risus dictum sodales. Nam ac risus iaculis, aliquet sem eu, mollis mauris. Curabitur pretium facilisis orci ut lacinia. Sed fermentum leo a odio blandit rutrum. Phasellus at nibh vel odio interdum vulputate ac eget urna. Nam eu arcu dapibus, sodales ligula nec, volutpat ipsum. Suspendisse auctor tellus vitae libero euismod venenatis.     xylophoneSed molestie lobortis ante sit amet hendrerit. Sed pharetra nisi sed interdum pulvinar. Nunc efficitur erat non aliquam mattis. Sed id nisl mattis lacus vehicula volutpat vitae vel massa. Curabitur interdum velit odio, vitae sollicitudin nunc rutrum non.     yahooNunc commodo consectetur scelerisque. Proin fermentum ligula ac quam finibus tincidunt. Aenean venenatis nisi et semper semper. Nunc sodales velit ipsum, ac pellentesque augue placerat eu.    zetaNullam ac suscipit odio. Curabitur viverra arcu ut egestas sollicitudin. Fusce sodales varius lectus ut tristique. Etiam eget nunc ornare, aliquet tortor eget, consequat mauris. Integer sit amet fermentum augue.     alphaPraesent nec neque ac tellus sodales eleifend nec vel ipsum. Cras et semper risus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer mattis leo nisl, a tincidunt lectus tristique eget. Donec finibus lobortis viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Vivamus egestas pulvinar odio non vehicula. Morbi malesuada leo eget nisl sagittis aliquet.    betaMauris a libero vel enim pharetra interdum non a quam. Sed tincidunt ut elit sed dignissim. Suspendisse vitae tellus dapibus, fermentum lacus ac, fermentum lacus. Nam ante odio, fringilla ac elementum a, mollis sed tellus.    cappaNam molestie semper nulla et molestie. Ut facilisis, ipsum sed convallis posuere, mi mauris bibendum erat, nec egestas ipsum est nec dolor.     dunnoEtiam et metus congue, commodo libero et, accumsan sem. Aliquam erat volutpat. Quisque tincidunt, tortor non blandit ullamcorper, orci mauris dignissim augue, eget vehicula nulla justo sed dolor. Nunc ac urna quis nisi maximus pharetra in a mauris. Proin metus mi, venenatis vitae tristique sed, fermentum at purus. Aliquam erat volutpat. Maecenas efficitur sodales nibh, ac hendrerit felis facilisis et. Interdum et malesuada fames ac ante ipsum primis in faucibus.     {{site.data.alerts.note}} This was mostly an experiment to see if there was a better way to document a long JSON code example. I haven't actually used this approach in my own documentation.{{site.data.alerts.end}}{% endif %}"
+
+},
+
+
+
+
+{
+"title": "Shuffle layout",
+"tags": "special_layouts",
+"keywords": "shuffle, card layout, dynamic grid, doc portal, support portal",
+"url": "../doc/doc_shuffle.html",
+"summary": "This layout shows an example of a knowledge-base style navigation system, where there is no hierarchy, just groups of pages that have certain tags.",
+"body": "{% if site.output == \"pdf\" %}{{site.data.alerts.note}} The content on this page doesn't display well on PDF, but I included it anyway so you could see the problems this layout poses if you're including it in PDF.  {{site.data.alerts.end}}{% endif %}{% unless site.output == \"pdf\" %}{% endunless %}            All      Getting Started      Formatting      Publishing      Content types          Single Sourcing      Special Layouts                                            Getting started                                 If you're getting started with Jekyll, see the links in this section. It will take you from the beginning level to comfortable.                                   {% for page in site.pages %}                {% for tag in page.tags %}                {% if tag == \"getting_started\" %}                  {{page.title}}                {% endif %}                {% endfor %}                {% endfor %}                                                                                 Content types                            This section lists different content types and how to work with them.                                    {% for page in site.pages %}                    {% for tag in page.tags %}                    {% if tag == \"content-types\" %}                    {{page.title}}                    {% endif %}                    {% endfor %}                    {% endfor %}                                                                                   Formatting                                 These topics get into formatting syntax, such as images and tables, that you'll use on each of your pages:                                   {% for page in site.pages %}                {% for tag in page.tags %}                {% if tag == \"formatting\" %}                  {{page.title}}                {% endif %}                {% endfor %}                {% endfor %}                                                                                   Single Sourcing               These topics cover strategies for single_sourcing. Single sourcing refers to strategies for re-using the same source in different outputs for different audiences or purposes.                               {% for page in site.pages %}                {% for tag in page.tags %}                {% if tag == \"single_sourcing\" %}                  {{page.title}}                {% endif %}                {% endfor %}                {% endfor %}                                                                          Publishing               When you're building, publishing, and deploying your Jekyll site, you might find these topics helpful.                                   {% for page in site.pages %}                {% for tag in page.tags %}                {% if tag == \"publishing\" %}                  {{page.title}}                {% endif %}                {% endfor %}                {% endfor %}                                                                                      Special Layouts                                 These pages highlight special layouts outside of the conventional page and TOC hierarchy.                                  {% for page in site.pages %}                {% for tag in page.tags %}                {% if tag == \"special_layouts\" %}                     {{page.title}}                {% endif %}                {% endfor %}                {% endfor %}                                                                                {% unless site.output == \"pdf\" %}{% include initialize_shuffle.html %}{% endunless %}{{site.data.alerts.note}} This was mostly an experiment to see if I could break away from the hierarchical TOC and provide a different way of arranging the content. However, this layout is somewhat problematic because it doesn't allow you to browse other navigation options on the side while viewing a topic.{{site.data.alerts.end}}"
+
+},
+
+
+
+
+{
+"title": "Ember Enterprise Documentation",
+"tags": "special_layouts",
+"keywords": "",
+"url": "../doc/",
+"summary": "",
+"body": "Navigate using the left menu"
+
+},
+
+
+
+
+{
+"title": "test",
+"tags": "",
+"keywords": "",
+"url": "../",
+"summary": "",
+"body": "                    Ember Enterprise is a collection of highly customizable, responsive and easy to use components                                                Awesome Customizable Components                            Ember Enterprise provides desktop and mobile components that are essential in any app:            buttons, datepickers, sliders, anything you would ever need for your app.            No outside dependencies, just a few directives super easy to learn and put things together.                                            Themes tailored for your needs                            Choose from a multitude of ready-to-use themes to make your app pop.            Customize the already existing themes to suit your personal needs and tastes with minimum effort.            {{hr_shaded}}{% include footer.html %}"
+
+},
+
+
+
+
+{
+"title": "Numeric input - Demo",
+"tags": "getting_started",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "../doc/numeric_input_demo.html",
+"summary": "",
+"body": ""
+
+},
+
+
+
+
+{
+"title": "Numeric input - Documentation",
+"tags": "",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "../doc/numeric_input_documentation.html",
+"summary": "Easy to use and customizable numeric input component.",
+"body": "## API| Attribute | Type | Value  | Description || --------- | ---- | ------ | ----------- || `disabled` | `boolean` | `false` | **default**: Can interact with component || | | `true` | Input and buttons are unusable and un-clickable || `onChange` | `string` | `(action )` | Triggers associated action when the input value is changed || `value` | `number` | `` | Value to bind to the input field || `max` | `number` | `null` | **default**: Input has no maximum value limit || | | `` | Maximum value accepted || `min` | `number` | `null` | **default**: Input has no minimum value limit || | | `` | Minimum value accepted || `format` | `string` | `null` | **default**: Simple numbers are displayed || | | `percentage` | The '%' sign is displayed next to the value inside the input field || | | `currency` | The '$' sign is displayed in front of the value inside the input field || | | `custom` | The string provided in the 'customFormatUnit' field is displayed next to the value inside the input field || `currencyUnit` | `string` | `$` | **default**: Ignored when 'format' type is not 'currency' || | | `` | The given string is displayed in front of the value inside the input field. Examples of currency units are '€', '£'. Ignored when 'format' type is not 'currency' || `customFormatUnit` | `string` | `null` | **default**: Ignored when 'format' type is not 'custom' || | | `` | The given string is displayed next to the value inside the input field. Examples of custom unit types are 'kg', 'cm'. Ignored when 'format' type is not 'custom' || `decimals` | `number` | `0` | **default**: No decimals are displayed || | | `` | The give number of decimals are displayed |## Examples### Simple```{% raw %}{{e-numeric-input value=20 min=0 max=100}}{% endraw %}```### Currency format```{% raw %}{{e-numeric-input value=20 min=0 max=100 format='currency'}}{% endraw %}```### Custom format```{% raw %}{{e-numeric-input value=20 min=0 max=100 format='custom' customUnitType='kg'}}{% endraw %}```### Percentage format with 2 decimals```{% raw %}{{e-numeric-input value=20 min=0 max=100 format='percentage' decimals=2}}{% endraw %}```"
+
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+null
+]
